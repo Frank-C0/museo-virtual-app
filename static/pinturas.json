@@ -7,7 +7,7 @@
         "sala": "Sala 1",
         "descripcion": "Esta obra presenta una escena encantadora en la que una llama, sumida en un estado de tranquilidad y comodidad, disfruta plácidamente de una taza de té. La atmósfera refleja una tarde fría y melancólica, con un entorno sereno que acentúa la paz del momento.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142844(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Una%20taza%20de%20te.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Una%20taza%20de%20te.mp3?raw=true"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "sala": "Sala 1",
         "descripcion": "La pintura captura la ternura y la calidez de dos llamas abrazándose de manera afectuosa. La técnica de acuarela resalta la suavidad y la conexión emocional entre estas dos criaturas, creando una imagen que evoca sentimientos de amor y amistad.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142903(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Un%20llami%20abrazo.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Un%20llami%20abrazo.mp3?raw=true"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "sala": "Sala 1",
         "descripcion": "La obra representa a una llama sentada de manera relajada en un banco en una calle. La escena muestra la llama en una postura tranquila, capturando la esencia de la soledad y la reflexión en un entorno urbano, proporcionando una sensación de calma y contemplación.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142914(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/sentama.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/sentama.mp3?raw=true"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "sala": "Sala 1",
         "descripcion": "Esta pintura ilustra a una llama tocando la guitarra bajo la luz de la luna. La combinación de la técnica de pastel y la iluminación nocturna crea una atmósfera mágica y melancólica, capturando el momento de serenidad y creatividad en la noche.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142741(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Una%20cancion%20bajo%20la%20luna.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Una%20cancion%20bajo%20la%20luna.mp3?raw=true"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "sala": "Sala 1",
         "descripcion": "La pintura presenta una llama sentada en su sillón, mirando al frente con una expresión de curiosidad o introspección. El uso de frescos contribuye a una representación vívida y detallada de la figura, mientras que la pose de la llama invita a la reflexión sobre el tema de la observación y la autoevaluación.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142730(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/que%20miras.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/que%20miras.mp3?raw=true"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "sala": "Sala 1",
         "descripcion": "En esta obra, se representa a una llama disfrutando de un día soleado en la playa. La técnica de grabado permite capturar la textura y la atmósfera del verano, mostrando a la llama en un momento de diversión y relajación junto al mar.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142722(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/verano.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/verano.mp3?raw=true"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "sala": "Sala 2",
         "descripcion": "La pintura muestra una escena de un desguace con autos amontonados. La técnica de óleo sobre tabla realza los detalles y la textura de los vehículos en descomposición, capturando la esencia de un entorno desolado y lleno de restos de maquinaria.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142952(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Desguace.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Desguace.mp3?raw=true"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "sala": "Sala 2",
         "descripcion": "Esta obra representa un desguace de vochos, capturando la esencia nostálgica y la deterioración de estos icónicos vehículos. La técnica de óleo sobre tabla resalta la textura y el desgaste de los autos, evocando una sensación de abandono y recuerdos pasados.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_143003(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/vochos.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/vochos.mp3?raw=true"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "sala": "Sala 2",
         "descripcion": "La pintura captura la imagen de autos abandonados en un desguace. Con la técnica de óleo sobre tabla, se destacan los detalles del deterioro y el abandono de estos vehículos, creando una imagen impactante de desolación y olvido.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_143053(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/el%20ultimo%20kilometro.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/el%20ultimo%20kilometro.mp3?raw=true"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "sala": "Sala 2",
         "descripcion": "Esta obra muestra una serie de pinturas de autos viejos desmantelados, cada uno con su propia historia de desgaste y abandono. La técnica de óleo sobre tabla permite una representación rica en texturas y detalles, resaltando el estado de los vehículos y su impacto visual.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_143042(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Curando%20a%20otros.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Curando%20a%20otros.mp3?raw=true"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "sala": "Sala 2",
         "descripcion": "La pintura presenta un autorretrato de un vehículo en medio de líneas de pintura de tempera, creando una imagen única que fusiona elementos de la pintura y el arte del automóvil. La técnica de óleo sobre tabla acentúa la interacción entre estos elementos y la complejidad del diseño.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_143029(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/El%20camino.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/El%20camino.mp3?raw=true"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "sala": "Sala 2",
         "descripcion": "En esta pintura se representan autos abandonados en un desguace, específicamente modelos de los años 80. La técnica de óleo sobre tabla destaca el contraste entre la nostalgia de los vehículos y su estado actual de abandono y deterioro.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_143053(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/ultimo%20modelo%20en%20los%2080.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/ultimo%20modelo%20en%20los%2080.mp3?raw=true"
     },
     {
         "id": 13,
@@ -127,7 +127,7 @@
         "sala": "Sala 3",
         "descripcion": "Una representación artística de una llama en el proceso de bañarse, capturando el momento con detalle y color vibrante.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142703(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/el%20ba%C3%B1o.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/el%20ba%C3%B1o.mp3?raw=true"
     },
     {
         "id": 14,
@@ -137,7 +137,7 @@
         "sala": "Sala 3",
         "descripcion": "Una pintura que muestra a una llama disfrutando de una siesta tranquila, resaltando su estado relajado y apacible.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142831(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/la%20siesta.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/la%20siesta.mp3?raw=true"
     },
     {
         "id": 15,
@@ -147,7 +147,7 @@
         "sala": "Sala 3",
         "descripcion": "Una ilustración de una llama en plena meditación, con una atmósfera serena que refleja el momento de introspección.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142501(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/meditando.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/meditando.mp3?raw=true"
     },
     {
         "id": 16,
@@ -157,7 +157,7 @@
         "sala": "Sala 3",
         "descripcion": "Una escena divertida que muestra a una llama viajando en una combi, destacando su expresión de apuro por llegar a tiempo.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142448(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/voy%20tarde.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/voy%20tarde.mp3?raw=true"
     },
     {
         "id": 17,
@@ -167,7 +167,7 @@
         "sala": "Sala 3",
         "descripcion": "Una ilustración de una llama ocupada en tejer, preparándose para enfrentar el frío con una bufanda cálida.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142428(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Para%20el%20frio.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/Para%20el%20frio.mp3?raw=true"
     },
     {
         "id": 18,
@@ -177,7 +177,7 @@
         "sala": "Sala 4",
         "descripcion": "Una escena que representa a una llama preparándose el desayuno, mostrando su dedicación en la cocina.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142410(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/el%20desayuno.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/el%20desayuno.mp3?raw=true"
     },
     {
         "id": 19,
@@ -187,7 +187,7 @@
         "sala": "Sala 4",
         "descripcion": "Una representación de una llama relajándose frente a una piscina, capturando un momento de calma y disfrute.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142350(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/flotar.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/flotar.mp3?raw=true"
     },
     {
         "id": 20,
@@ -197,7 +197,7 @@
         "sala": "Sala 4",
         "descripcion": "Una pintura que muestra a una llama durmiendo plácidamente en un sofá, destacando su estado de tranquilidad.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142649(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/una%20siesta.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/una%20siesta.mp3?raw=true"
     },
     {
         "id": 21,
@@ -207,7 +207,7 @@
         "sala": "Sala 4",
         "descripcion": "Una ilustración de una llama observando la lluvia, capturando su fascinación por el fenómeno meteorológico.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142813(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/llumiendo.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/llumiendo.mp3?raw=true"
     },
     {
         "id": 22,
@@ -217,7 +217,7 @@
         "sala": "Sala 4",
         "descripcion": "Una pintura que muestra a una llama con lentes, inmersa en la lectura de un libro, reflejando su interés y concentración.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142755(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/lectura.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/lectura.mp3?raw=true"
     },
     {
         "id": 23,
@@ -227,7 +227,7 @@
         "sala": "Sala 5",
         "descripcion": "Una escena que representa a una llama sosteniendo un paraguas bajo la lluvia durante la noche, mostrando la atmósfera lluviosa.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142334(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/bajo%20la%20lluvia.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/bajo%20la%20lluvia.mp3?raw=true"
     },
     {
         "id": 24,
@@ -237,7 +237,7 @@
         "sala": "Sala 5",
         "descripcion": "Una pintura de una llama vestida con un traje floreado, capturando un estilo vibrante y alegre.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142316(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/floreada.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/floreada.mp3?raw=true"
     },
     {
         "id": 25,
@@ -247,7 +247,7 @@
         "sala": "Sala 5",
         "descripcion": "Una ilustración de una llama disfrutando de una bebida de chicha morada, destacando el aspecto cultural de la bebida.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142300(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/mi%20chica%20morada.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/mi%20chica%20morada.mp3?raw=true"
     },
     {
         "id": 26,
@@ -257,7 +257,7 @@
         "sala": "Sala 5",
         "descripcion": "Una pintura que muestra a una llama disfrutando de un mojito, reflejando un momento relajado y sofisticado.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142248(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/aesthetic.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/aesthetic.mp3?raw=true"
     },
     {
         "id": 27,
@@ -267,7 +267,7 @@
         "sala": "Sala 5",
         "descripcion": "Una pintura que captura a una llama en el momento de despertar, mostrando su transición de sueño a vigilia.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142103(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/despertar.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/despertar.mp3?raw=true"
     },
     {
         "id": 28,
@@ -277,7 +277,7 @@
         "sala": "Sala 6",
         "descripcion": "Una representación de una llama disfrutando de una merienda que consiste en té y pan, capturando la sencillez y el confort de un momento cotidiano.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_142042(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/el%20lonche.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/el%20lonche.mp3?raw=true"
     },
     {
         "id": 29,
@@ -286,8 +286,8 @@
         "tecnica": "Óleo, tempera y pastel sobre cartón",
         "sala": "Sala 6",
         "descripcion": "Una obra que representa el mapa del Perú con sus tres regiones naturales, utilizando diferentes texturas para ilustrar la diversidad geográfica del país.",
-        "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/cc4692b040fc42cb885d91b39d9cab3bd3835625/Imagenes/Fotos%20editadas/IMG_20240719_141635(1).png",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/textura%20peruanas.mp3"
+        "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/cc4692b040fc42cb885d91b39d9cab3bd3835625/Imagenes/Fotos%20editadas/IMG_20240719_141635(1).png?raw=true",
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/textura%20peruanas.mp3?raw=true"
     },
     {
         "id": 30,
@@ -297,7 +297,7 @@
         "sala": "Sala 6",
         "descripcion": "Una pintura que muestra el humo resultante de incendios forestales, evocando la reflexión sobre el impacto ambiental y las consecuencias de tales desastres.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_141614(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/pensamientos.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/pensamientos.mp3?raw=true"
     },
     {
         "id": 31,
@@ -307,7 +307,7 @@
         "sala": "Sala 6",
         "descripcion": "Un mapa de Sudamérica ilustrando las áreas afectadas por incendios forestales, destacando la extensión y el impacto de estos eventos en la región.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_141443(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/incendios%20forestales.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/incendios%20forestales.mp3?raw=true"
     },
     {
         "id": 32,
@@ -317,6 +317,6 @@
         "sala": "Sala 6",
         "descripcion": "Una ilustración del mapa del Perú con datos sobre la minería ilegal, mostrando la extensión de esta actividad y su impacto en el medio ambiente.",
         "imagen_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Imagenes/Fotos%20editadas/IMG_20240719_141443(1).png?raw=true",
-        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/mineria.mp3"
+        "audio_link": "https://github.com/Jeffrey-7101/Static-museo-virtual/blob/main/Audios/mineria.mp3?raw=true"
     }
 ]
