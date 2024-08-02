@@ -1,0 +1,27 @@
+[{
+  "titulo": "titulo 1",
+  "autorId": "gold",
+  "tecnica": "tecnica 1",
+  "categoria": "categoria 1",
+  "descripcion": "holaaaaaaa",
+  "enlace": "https://example.com",
+  "ano": 2024,
+  "posX": 10.0,
+  "posY": 20.0,
+  "width": 40.0,
+  "height": 10.0
+},
+{
+  "titulo": "titulo 2",
+  "autorId": "gold",
+  "tecnica": "tecnica 1",
+  "categoria": "categoria 1",
+  "descripcion": "holaaaaaaa",
+  "enlace": "https://example.com",
+  "ano": 2024,
+  "posX": 10.0,
+  "posY": 20.0,
+  "width": 40.0,
+  "height": 10.0
+}
+]
